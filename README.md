@@ -1,1 +1,1 @@
-# MiAPR_Asteroids
+Path planning in GYM enviroment using OpenCV
